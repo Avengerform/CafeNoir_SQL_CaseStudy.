@@ -43,5 +43,5 @@ RETURN
     WHERE Product_Type = @Producttype
 );
 ```
-👉 Full queries are available in [Query.sql](Query.sql)
+I have Attached the neccesary working queries, relavent case files in the same repo please do check.
 ---
