@@ -43,5 +43,5 @@ RETURN
     WHERE Product_Type = @Producttype
 );
 ```
-👉 Full queries are available in [queries.sql](queries.sql)
+👉 Full queries are available in [Query.sql](Query.sql)
 ---
