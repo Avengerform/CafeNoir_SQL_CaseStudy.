@@ -1,8 +1,6 @@
 # CafeNoir_SQL_CaseStudy.
 “SQL queries for analyzing sales, profit, and marketing data in a café case study.”
 
-# CAFE_NOIR_DB – SQL Case Study
-
 ## Introduction
 This project is a case study where I acted as a database administrator for a fictional café business.  
 The goal was to analyze customer data, sales, profit, marketing spend, and product performance using SQL queries.  
