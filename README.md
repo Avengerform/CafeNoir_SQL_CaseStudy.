@@ -43,5 +43,23 @@ RETURN
     WHERE Product_Type = @Producttype
 );
 ```
+💡 Insights Gained
+```
+Colorado generated significant profit compared to other states.
+
+Regular products were fewer compared to specialty types.
+
+Marketing spend varied widely across products.
+
+Transactions ensured data integrity when testing updates and deletes.
+```
+Summary:
+```
+Fact Table: 14 columns, 4200 rows (Sales, Profit, Expenses, Marketing, Inventory, etc.)
+
+Product Table: 13 rows (Product Type, Product, ProductID, Type)
+
+Location Table: 156 rows (Area Code, State, Market, Market Size)
+```
 I have Attached the neccesary working queries, relavent case files in the same repo please do check.
 ---
